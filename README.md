@@ -6,8 +6,9 @@ I tried model checking algorithm but due to a large number of variables that was
 
 ## Requirements
 
-Python 3
-Data in a text file and input data from episodes
+- Python 3
+- Name data in a text file
+- Input data from episodes
 
 ## Attribute
 
